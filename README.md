@@ -35,6 +35,8 @@ Extracción de la información:
 Como ya se mencionó anteriormente, para obtener la información necesaria para el análisis se usó  Media Cloud, una herramienta especializada para análisis de medios e investigación relacionada y también uno de los agregadores de noticias más populares, Google News.
 
 <picture>
+ <source media="(prefers-color-scheme: dark)" srcset="mediacloudapi1.png">
+ <source media="(prefers-color-scheme: light)" srcset="mediacloudapi1.png">
  <img alt="" src="mediacloudapi1.png", height="200>
 </picture>
 
