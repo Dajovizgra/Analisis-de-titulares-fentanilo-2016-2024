@@ -109,17 +109,21 @@ Como ya se dijo en este documento, luego de la extracción de los datos se pudo 
 
 En primer lugar se agrupan aquellos enlaces que repiten el mismo titular, aunque en el gráfico se puede ver que el volumen y tendencia de publicación tienen similitudes, los picos máximos y el número de noticias en inglés y español que se publicaron ese día descienden considerablemente, no pasa lo mismo con los datos en francés. 
 
-![DB fentanilo 2016 - 2024 español, títulos agrupados.](DBfentanilo 2016 - 2024 español, títulos agrupados.png)
+![DB fentanilo 2016 - 2024 español, títulos agrupados.](DBfentanilo2016-2024españoltítulosagrupados.png)
 
 *DB fentanilo 2016 - 2024 español, títulos agrupados*
 
-![DB fentanilo 2016 - 2024 inglés, títulos agrupados.](DBfentanilo 2016 - 2024 inglés, títulos agrupados.png)
+![DB fentanilo 2016 - 2024 inglés, títulos agrupados.](DBfentanilo2016-2024ingléstítulosagrupados.png)
 
 *DB fentanilo 2016 - 2024 inglés, títulos agrupados*
 
-![DB fentanilo 2016 - 2024 francés, títulos agrupados.](DBfentanilo 2016 - 2024 francés, títulos agrupados.png)
+![DB fentanilo 2016 - 2024 francés, títulos agrupados.](DBfentanilo2016-2024francéstítulosagrupados.png)
 
 *DB fentanilo 2016 - 2024 francés, títulos agrupados*
+
+![Volumen total diario con filtro.](volumentotaldiarioconfiltro.png)
+
+*Volumen total diario con filtro.*
 
 Tanto el volumen y tendencia de publicación de noticias puede obedecer a la distribución y culturas mediáticas en cada país, la forma de abarcar el tema y el objetivo que se tiene al hacerlo, por ejemplo en las notas recolectadas de Colombia y México, algunas noticias no tienen que ver directamente con el fentanilo pero al referirse al crimen organizado, política, accidentes o farándula se incluye si o si la palabra en la noticia, así no tenga nada que ver con el contexto de la nota. Un ejemplo claro es cuando alguien reconocido muere por sobredosis y aún sin que sea verdad, los medios dicen que presuntamente fue por fentanilo. Es una estrategia de posicionamiento web que va de la mano con lo que quiere vender cada medio.
 
