@@ -34,19 +34,19 @@ Teniendo en cuenta los países más cercanos a la problemática del fentanilo (C
 
 Como ya se mencionó anteriormente, para obtener la información necesaria para el análisis se usó  Media Cloud, una herramienta especializada para análisis de medios e investigación relacionada y también uno de los agregadores de noticias más populares, Google News.
 
-![MediaCloud Api](mediacloudapi1.png)
+![MediaCloud Api](Gráficos/mediacloudapi1.png)
 
 *MediaCloud Api*
 
-![MediaCloud Api 2](mediacloudapi2.png)
+![MediaCloud Api 2](Gráficos/mediacloudapi2.png)
 
 *MediaCloud Api*
 
-![Google News y BeautifulSoup Api](googlenewsbsp1.png)
+![Google News y BeautifulSoup Api](Gráficos/googlenewsbsp1.png)
 
 *Google News y BeautifulSoup*
 
-![Beautiful Soup](Beautifulsoup.png)
+![Beautiful Soup](Gráficos/Beautifulsoup.png)
 
 *BeautifulSoup*
 
@@ -57,15 +57,15 @@ Pensando a otros análisis que se hagan a futuro en este punto se hace una prime
 
 De aquí salieron 6 bases de datos; 3 con información extraída de Google News del año 2016 al año 2019 en inglés, francés y español; 3 con información extraída de Media Cloud del año 2020 al año 2024 en inglés, francés y español. Los resultados obtenidos desde ambas fuentes diferían en cuanto a los formatos de las fechas de publicación de las noticias, antes proceder a unir la información de Media Cloud y Google News, desde 2016 – 2019, agrupadas por idiomas, se solucionó este paso estableciendo un formato de fecha igual para toda la información (AAAA-MM-DD).
 
-![Db fentanilo 2016 - 2024 español](dbfentanilo2016-2024esp.png)
+![Db fentanilo 2016 - 2024 español](Gráficos/dbfentanilo2016-2024esp.png)
 
 *Db fentanilo 2016 - 2024 español*
 
-![Db fentanilo 2016 - 2024 inglés](dbfentanilo2016-2024ing.png)
+![Db fentanilo 2016 - 2024 inglés](Gráficos/dbfentanilo2016-2024ing.png)
 
 *Db fentanilo 2016 - 2024 inglés*
 
-![Db fentanilo 2016 - 2024 francés](dbfentanilo2016-2024fr.png)
+![Db fentanilo 2016 - 2024 francés](Gráficos/dbfentanilo2016-2024fr.png)
 
 *Db fentanilo 2016 - 2024 francés*
 
@@ -81,25 +81,25 @@ Luego de tener toda la información recolectada en 3 bases de datos, cada una en
 
 Para esto se procedió 	a hacer un gráfico de líneas con la librería Matplotlib de python, en donde se pudiera observar el volumen de publicación de noticias de forma diaria desde el año 2016 hasta el año 2024 y otro en donde se grafica la tendencia de esta información.
 
-![Volumen de publicación diario](volumenpublicaciondiario.png)
+![Volumen de publicación diario](Gráficos/volumenpublicaciondiario.png)
 
 *Volumen de publicación diario*
 
-![Tendencia de publicación diario](tendenciadepublicaciondiaria.png)
+![Tendencia de publicación diario](Gráficos/tendenciadepublicaciondiaria.png)
 
 *Volumen de publicación diario*
 
 Ya se pueden ver algunos detalles muy claros en los datos como lo son; durante el periodo de tiempo seleccionado el numero de noticias en inglés ocupa el primer puesto en cuanto a cantidad y se ve que, junto a la información en español, tuvieron una tendencia a crecer rápidamente a medida que avanzaba el tiempo. Por su parte, las noticias en francés, fueron un número significativamente menor con una tendencia creciendo de forma muy moderada, esto debido principalmente a que la cantidad de personas que hablan inglés y español (Colombia, México, Canadá y EE.UU) es superior de las que hablan francés(Canadá). A continuación observamos los volúmenes de publicación de forma anual para los 3 idiomas.
 
-![Volumen total anual en inglés.](volumentotalanualeninglés.png)
+![Volumen total anual en inglés.](Gráficos/volumentotalanualeninglés.png)
 
 *Volumen total anual en inglés*
 
-![Volumen total anual en español.](volumentotalanualenespañol.png)
+![Volumen total anual en español.](Gráficos/volumentotalanualenespañol.png)
 
 *Volumen total anual en español*
 
-![Volumen total anual en francés.](volumentotalanualenfrancés.png)
+![Volumen total anual en francés.](Gráficos/volumentotalanualenfrancés.png)
 
 *Volumen total anual en francés*
 
@@ -109,21 +109,21 @@ Como ya se dijo en este documento, luego de la extracción de los datos se pudo 
 
 En primer lugar se agrupan aquellos enlaces que repiten el mismo titular, aunque en el gráfico se puede ver que el volumen y tendencia de publicación tienen similitudes, los picos máximos y el número de noticias en inglés y español que se publicaron ese día descienden considerablemente, no pasa lo mismo con los datos en francés. 
 
-![DB fentanilo 2016 - 2024 español, títulos agrupados.](DBfentanilo2016-2024españoltítulosagrupados.png)
+![DB fentanilo 2016 - 2024 español, títulos agrupados.](Gráficos/DBfentanilo2016-2024españoltítulosagrupados.png)
 
 *DB fentanilo 2016 - 2024 español, títulos agrupados*
 
-![DB fentanilo 2016 - 2024 inglés, títulos agrupados.](DBfentanilo2016-2024ingléstítulosagrupados.png)
+![DB fentanilo 2016 - 2024 inglés, títulos agrupados.](Gráficos/DBfentanilo2016-2024ingléstítulosagrupados.png)
 
 *DB fentanilo 2016 - 2024 inglés, títulos agrupados*
 
-![DB fentanilo 2016 - 2024 francés, títulos agrupados.](DBfentanilo2016-2024francéstítulosagrupados.png)
+![DB fentanilo 2016 - 2024 francés, títulos agrupados.](Gráficos/DBfentanilo2016-2024francéstítulosagrupados.png)
 
 *DB fentanilo 2016 - 2024 francés, títulos agrupados*
 
-![Volumen total diario con filtro.](volumentotaldiarioconfiltro.png)
+![Volumen total diario con filtro.](Gráficos/volumentotaldiarioconfiltro.png)
 
-*Volumen total diario con filtro.*
+*Volumen total diario con filtro*
 
 Tanto el volumen y tendencia de publicación de noticias puede obedecer a la distribución y culturas mediáticas en cada país, la forma de abarcar el tema y el objetivo que se tiene al hacerlo, por ejemplo en las notas recolectadas de Colombia y México, algunas noticias no tienen que ver directamente con el fentanilo pero al referirse al crimen organizado, política, accidentes o farándula se incluye si o si la palabra en la noticia, así no tenga nada que ver con el contexto de la nota. Un ejemplo claro es cuando alguien reconocido muere por sobredosis y aún sin que sea verdad, los medios dicen que presuntamente fue por fentanilo. Es una estrategia de posicionamiento web que va de la mano con lo que quiere vender cada medio.
 
@@ -136,39 +136,39 @@ Si la gente está interesada en consumir cosas relacionadas al fentanilo, desde 
 Aunque es algo que también sucede en los titulares que están en francés, la visión de cada país de alguna manera u otra impacta en la agenda mediática. Más adelante se detallará mejor gracias al análisis de texto de los titulares de las noticias. 
 Luego de haber agrupado los titulares que se repetían y los enlaces de las noticias se procedió con el segundo filtro, en este caso se trabajó solo con los titulares que incluyen la palabra fentanilo. Se puede observar que el número de noticias se reduce de gran manera otra vez, incluso en francés. Aunque los Gráficos de líneas 1 y 3 tienen similitudes, se puede ver que la magnitud del eje y, el eje vertical, disminuyen en gran medida, la tendencia no tiene muchas variaciones.
 
-![DB fentanilo 2016 - 2024 español, títulos agrupados con la palabra fentanilo presente.](dbfentanilo2016-2024espagrupadosconlapalabrafentanilo.png)
+![DB fentanilo 2016 - 2024 español, títulos agrupados con la palabra fentanilo presente.](Gráficos/dbfentanilo2016-2024espagrupadosconlapalabrafentanilo.png)
 
-*DB fentanilo 2016 - 2024 español, títulos agrupados con la palabra fentanilo presente.*
+*DB fentanilo 2016 - 2024 español, títulos agrupados con la palabra fentanilo presente*
 
-![DB fentanilo 2016 - 2024 inglés, títulos agrupados con la palabra fentanilo presente.](dbfentanilo2016-2024ingagrupadosconlapalabrafentanilo.png)
+![DB fentanilo 2016 - 2024 inglés, títulos agrupados con la palabra fentanilo presente.](Gráficos/dbfentanilo2016-2024ingagrupadosconlapalabrafentanilo.png)
 
-*DB fentanilo 2016 - 2024 inglés, títulos agrupados con la palabra fentanilo presente.*
+*DB fentanilo 2016 - 2024 inglés, títulos agrupados con la palabra fentanilo presente*
 
-![DB fentanilo 2016 - 2024 francés, títulos agrupados con la palabra fentanilo presente.](dbfentanilo2016-2024fragrupadosconlapalabrafentanilo.png)
+![DB fentanilo 2016 - 2024 francés, títulos agrupados con la palabra fentanilo presente.](Gráficos/dbfentanilo2016-2024fragrupadosconlapalabrafentanilo.png)
 
-*DB fentanilo 2016 - 2024 francés, títulos agrupados con la palabra fentanilo presente.*
+*DB fentanilo 2016 - 2024 francés, títulos agrupados con la palabra fentanilo presente*
 
-![Volumen total diario con el segundo filtro.](volumentotaldiarioconsegundofiltro.png)
+![Volumen total diario con el segundo filtro.](Gráficos/volumentotaldiarioconsegundofiltro.png)
 
-*Volumen total diario con el segundo filtro.*
+*Volumen total diario con el segundo filtro*
 
-![Tendencia diaria con el segundo filtro.](tendenciatotaldiarioconsegundofiltro.png)
+![Tendencia diaria con el segundo filtro.](Gráficos/tendenciatotaldiarioconsegundofiltro.png)
 
-*Volumen total diario con el segundo filtro.*
+*Volumen total diario con el segundo filtro*
 
 Con el segundo filtro se asegura que los datos van a mencionar la palabra fentanilo 1 vez dentro de la noticia, no como enlace, nota o video sugerido, aunque eso no asegura que todas las noticias tengan al fentanilo como foco de atención o que no sea una palabra usada para atraer visitas y lecturas.
 
 Otra anotación importante y que no es tan clara en estos gráficos es la estacionalidad (repetición cada cierto período de tiempo idéntico de ciertos fenómenos) que presentan los datos. Cada cierto periodo de tiempo se presentan ciertos picos y valles en los gráficos. Esto puede obedecer a diferentes razones entre los cuales se intuye el interés y las agendas mediáticas relacionadas al fentanilo, por ejemplo avances en las investigaciones de muertes de artistas por sobredosis o incautaciones de la sustancia.
 
-![Estacionalidad de publicación de noticias inglés.](estacionalidadingsegundofiltro.png)
+![Estacionalidad de publicación de noticias inglés.](Gráficos/estacionalidadingsegundofiltro.png)
 
 *Estacionalidad de publicación de noticias inglés*
 
-![Estacionalidad de publicación de noticias español.](estacionalidadespsegundofiltro.png)
+![Estacionalidad de publicación de noticias español.](Gráficos/estacionalidadespsegundofiltro.png)
 
 *Estacionalidad de publicación de noticias español*
 
-![Estacionalidad de publicación de noticias francés.](estacionalidadfrsegundofiltro.png)
+![Estacionalidad de publicación de noticias francés.](Gráficos/estacionalidadfrsegundofiltro.png)
 
 *Estacionalidad de publicación de noticias francés*
 
@@ -180,19 +180,19 @@ El siguiente paso, teniendo los titulares de las noticias procesados, es hacer u
 Gracias al análisis de texto de los titulares de las noticias se puede observar claramente que la palabra mas recurrente en las nubes de palabras en inglés, español y francés es la palabra fentanilo con un contexto ampliamente relacionado al crimen, otras sustancias y la muerte. 
 En la nube de palabras en inglés algunas de las palabras que más resaltan son charge (cargo), overdose (sobredosis), police (policía), death (muerte), entre otras.
 
-![Nube de palabras en inglés.](nubepalabrasing.png)
+![Nube de palabras en inglés.](Gráficos/nubepalabrasing.png)
 
 *Nube de palabras en inglés*
 
 Sobredosis, muerte, tráfico, metanfetamina, cocaína, píldora entre muchas otras palabras resaltan tanto en inglés como en español.
 
-![Nube de palabras en español.](nubepalabrasesp.png)
+![Nube de palabras en español.](Gráficos/nubepalabrasesp.png)
 
 *Nube de palabras en español*
 
 Debido a la estrategia de reducción de daños a nivel nacional que tiene Canadá, en la nube de palabras en francés se observan brevemente y de forma reducida las palabras naloxona y medicina. Aunque no salen como las palabras más relevantes dentro del gráfico, el compromiso nacional con la reducción de daños ha calado un poco en las narrativas mediáticas.
 
-![Nube de palabras en francés.](nubepalabrasfr.png)
+![Nube de palabras en francés.](Gráficos/nubepalabrasfr.png)
 
 *Nube de palabras en francés*
 
