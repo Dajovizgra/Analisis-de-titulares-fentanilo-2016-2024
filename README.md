@@ -30,15 +30,25 @@ Teniendo en cuenta los países más cercanos a la problemática del fentanilo (C
        
 ##        Obtener y cargar los datos
 
-Extracción de la información:
+### Extracción de la información:
 
 Como ya se mencionó anteriormente, para obtener la información necesaria para el análisis se usó  Media Cloud, una herramienta especializada para análisis de medios e investigación relacionada y también uno de los agregadores de noticias más populares, Google News.
 
-<picture>
- <source media="(prefers-color-scheme: dark)" srcset="mediacloudapi1.png">
- <source media="(prefers-color-scheme: light)" srcset="mediacloudapi1.png">
- <img alt="" src="mediacloudapi1.png", height="200>
-</picture>
+![MediaCloud Api](mediacloudapi1.png)
+
+*MediaCloud Api*
+
+![MediaCloud Api 2](mediacloudapi2.png)
+
+*MediaCloud Api*
+
+![Google News y BeautifulSoup Api](googlenewsbsp1.png)
+
+*Google News y BeautifulSoup*
+
+![Beautiful Soup](Beautifulsoup.png)
+
+*BeautifulSoup*
 
 
 
