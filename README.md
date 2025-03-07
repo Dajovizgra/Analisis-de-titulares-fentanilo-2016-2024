@@ -157,3 +157,6 @@ Luego de haber agrupado los titulares que se repetían y los enlaces de las noti
 *Volumen total diario con el segundo filtro.*
 
 Con el segundo filtro se asegura que los datos van a mencionar la palabra fentanilo 1 vez dentro de la noticia, no como enlace, nota o video sugerido, aunque eso no asegura que todas las noticias tengan al fentanilo como foco de atención o que no sea una palabra usada para atraer visitas y lecturas.
+
+Otra anotación importante y que no es tan clara en estos gráficos es la estacionalidad (repetición cada cierto período de tiempo idéntico de ciertos fenómenos) que presentan los datos. Cada cierto periodo de tiempo se presentan ciertos picos y valles en los gráficos. Esto puede obedecer a diferentes razones entre los cuales se intuye el interés y las agendas mediáticas relacionadas al fentanilo, por ejemplo avances en las investigaciones de muertes de artistas por sobredosis o incautaciones de la sustancia.
+
