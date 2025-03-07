@@ -68,3 +68,15 @@ De aquí salieron 6 bases de datos; 3 con información extraída de Google News 
 ![Beautiful Soup](dbfentanilo2016-2024fr.png)
 
 *Db fentanilo 2016 - 2024 francés*
+
+**Para tener en cuenta:** Durante el proceso de limpieza se decidió a acceder a las urls de varias de las noticias extraídas y se pudo notar que aunque la palabra clave de consulta para la extracción de la información era fentanilo y fentanyl, en varias de las noticias esta palabra no aparece en el título, a veces aparece solo una vez o ni siquiera aparece en el cuerpo del texto. En algunos casos la palabra está es en notas o enlaces recomendados y en varias ocasiones no aparece en ningún lado del contenido del enlace.
+
+Una mejora a futuro de este análisis va a tener que detallar porque varias noticias que no contienen la palabra fentanilo o fentanyl en ninguna parte del sitio web salen en los resultados de la consulta y buscar la manera para evitar que esto suceda.
+
+##        Análisis exploratorio de los datos
+
+### Análisis de series de tiempo:
+
+Luego de tener toda la información recolectada en 3 bases de datos, cada una en un idioma (inglés, español y francés) se procedió a realizar el análisis exploratorio correspondiente.
+
+Para esto se procedió 	a hacer un gráfico de líneas con la librería Matplotlib de python, en donde se pudiera observar el volumen de publicación de noticias de forma diaria desde el año 2016 hasta el año 2024 y otro en donde se grafica la tendencia de esta información.
