@@ -171,3 +171,11 @@ Otra anotación importante y que no es tan clara en estos gráficos es la estaci
 ![Estacionalidad de publicación de noticias francés.](estacionalidadfrsegundofiltro.png)
 
 *Estacionalidad de publicación de noticias francés*
+
+### Análisis de texto:
+
+Para este punto de análisis, a diferencia del anterior, solo se va a usar los datos agrupados por título y que además contienen la palabra ‘fentanilo’. En primer lugar se hace el procesamiento de los titulares de las noticias para eliminar caracteres especiales como tildes, comas, entre otras y también se eliminan  conjunciones, artículos, preposiciones y adverbios como ante, antes, aún, aunque, aquí, arriba, atrás así, bajo, entre otras tantas que no aportarán nada pero que si afectarían los siguientes procedimientos. Esto se hizo usando las librerías de python, spacy, nltk y re.
+El siguiente paso, teniendo los titulares de las noticias procesados, es hacer un conteo de las palabras que más se repiten dentro de todos los datos y graficar una nube de palabras, haciendo uso de las librerías WordCloud, collections y PIL, para ver cuál es el contexto general de la información que se ha reunido.
+
+Gracias al análisis de texto de los titulares de las noticias se puede observar claramente que la palabra mas recurrente en las nubes de palabras en inglés, español y francés es la palabra fentanilo con un contexto ampliamente relacionado al crimen, otras sustancias y la muerte. 
+En la nube de palabras en inglés algunas de las palabras que más resaltan son charge (cargo), overdose (sobredosis), police (policía), death (muerte), entre otras.
