@@ -51,4 +51,10 @@ Como ya se mencionó anteriormente, para obtener la información necesaria para 
 *BeautifulSoup*
 
 
+### Limpieza de la información:
+
+Pensando a otros análisis que se hagan a futuro en este punto se hace una primera limpieza de los datos revisando que todas las urls de donde se extrajeron las noticias sigan disponibles. Con esto se asegura de que más adelante, si se quiere obtener por ejemplo una captura de pantalla o información aparte de las columnas que están en el csv creado con los resultados, se podrá acceder a cualquier enlace porque todos deberían estar funcionando. Además de las url que no dieran respuesta, se limpiaron algunos registros que se salían de la estructura de las bases de datos por ejemplo, titulares que se cortaban en 2 o más partes y que se colaban en otras columnas, no fue un número significativo por lo que se eliminaron.
+
+De aquí salieron 6 bases de datos; 3 con información extraída de Google News del año 2016 al año 2019 en inglés, francés y español; 3 con información extraída de Media Cloud del año 2020 al año 2024 en inglés, francés y español. Los resultados obtenidos desde ambas fuentes diferían en cuanto a los formatos de las fechas de publicación de las noticias, antes proceder a unir la información de Media Cloud y Google News, desde 2016 – 2019, agrupadas por idiomas, se solucionó este paso estableciendo un formato de fecha igual para toda la información (AAAA-MM-DD).
+
 
