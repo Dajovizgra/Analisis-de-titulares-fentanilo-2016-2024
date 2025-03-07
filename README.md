@@ -179,3 +179,28 @@ El siguiente paso, teniendo los titulares de las noticias procesados, es hacer u
 
 Gracias al análisis de texto de los titulares de las noticias se puede observar claramente que la palabra mas recurrente en las nubes de palabras en inglés, español y francés es la palabra fentanilo con un contexto ampliamente relacionado al crimen, otras sustancias y la muerte. 
 En la nube de palabras en inglés algunas de las palabras que más resaltan son charge (cargo), overdose (sobredosis), police (policía), death (muerte), entre otras.
+
+![Nube de palabras en inglés.](nubepalabrasing.png)
+
+*Nube de palabras en inglés*
+
+Sobredosis, muerte, tráfico, metanfetamina, cocaína, píldora entre muchas otras palabras resaltan tanto en inglés como en español.
+
+![Nube de palabras en español.](nubepalabrasesp.png)
+
+*Nube de palabras en español*
+
+Debido a la estrategia de reducción de daños a nivel nacional que tiene Canadá, en la nube de palabras en francés se observan brevemente y de forma reducida las palabras naloxona y medicina. Aunque no salen como las palabras más relevantes dentro del gráfico, el compromiso nacional con la reducción de daños ha calado un poco en las narrativas mediáticas.
+
+![Nube de palabras en francés.](nubepalabrasfr.png)
+
+*Nube de palabras en francés*
+
+##        Conclusiones
+- Durante el 2020 – 2024 el volumen de publicaciones en inglés y español tiene un mayor crecimiento que entre el 2016 – 2019 en donde se ve una tendencia más moderada. Lo anterior coincide con el récord histórico de muertes por sobredosis en EE.UU en 2020, una cantidad de muertes que no se veía desde finales de los años noventa y lo cuál pudo haber influido en el volumen de publicaciones de noticias relacionadas al fentanilo.
+  
+- La publicación de noticias en francés mantiene una tendencia neutra a lo largo del 2016 – 2024. En ningún momento tiene cambios significativos.
+  
+- El contexto de la mayoría de las palabras que se agrupan en la nube de palabras, luego del procesamiento de los titulares de las noticias, es de punitividad, seguridad, crimen, negocio y muerte.
+  
+- La política nacional de reducción de daños que tiene Canadá puede estar influyendo,de manera muy tímida aún, en la agenda mediática de ese país. Solo en la nube de palabras en francés se pueden ver levemente representadas las palabras naloxona y medicina, además solo la tendencia de noticias en francés tiene una tendencia neutra desde el 2016 – 2024.
