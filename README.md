@@ -136,16 +136,24 @@ Si la gente está interesada en consumir cosas relacionadas al fentanilo, desde 
 Aunque es algo que también sucede en los titulares que están en francés, la visión de cada país de alguna manera u otra impacta en la agenda mediática. Más adelante se detallará mejor gracias al análisis de texto de los titulares de las noticias. 
 Luego de haber agrupado los titulares que se repetían y los enlaces de las noticias se procedió con el segundo filtro, en este caso se trabajó solo con los titulares que incluyen la palabra fentanilo. Se puede observar que el número de noticias se reduce de gran manera otra vez, incluso en francés. Aunque los Gráficos de líneas 1 y 3 tienen similitudes, se puede ver que la magnitud del eje y, el eje vertical, disminuyen en gran medida, la tendencia no tiene muchas variaciones.
 
-![DB fentanilo 2016 - 2024 español, títulos agrupados con la palabra fentanilo presente.](db2016-2024espagrupadosconlapalabrafentanilo.png)
+![DB fentanilo 2016 - 2024 español, títulos agrupados con la palabra fentanilo presente.](dbfentanilo2016-2024espagrupadosconlapalabrafentanilo.png)
 
 *DB fentanilo 2016 - 2024 español, títulos agrupados con la palabra fentanilo presente.*
 
-![DB fentanilo 2016 - 2024 inglés, títulos agrupados con la palabra fentanilo presente.](db2016-2024ingagrupadosconlapalabrafentanilo.png)
+![DB fentanilo 2016 - 2024 inglés, títulos agrupados con la palabra fentanilo presente.](dbfentanilo2016-2024ingagrupadosconlapalabrafentanilo.png)
 
 *DB fentanilo 2016 - 2024 inglés, títulos agrupados con la palabra fentanilo presente.*
 
-![DB fentanilo 2016 - 2024 francés, títulos agrupados con la palabra fentanilo presente.](db2016-2024fragrupadosconlapalabrafentanilo.png)
+![DB fentanilo 2016 - 2024 francés, títulos agrupados con la palabra fentanilo presente.](dbfentanilo2016-2024fragrupadosconlapalabrafentanilo.png)
 
 *DB fentanilo 2016 - 2024 francés, títulos agrupados con la palabra fentanilo presente.*
+
+![Volumen total diario con el segundo filtro.](volumentotaldiarioconsegundofiltro.png)
+
+*Volumen total diario con el segundo filtro.*
+
+![Tendencia diaria con el segundo filtro.](tendenciatotaldiarioconsegundofiltro.png)
+
+*Volumen total diario con el segundo filtro.*
 
 Con el segundo filtro se asegura que los datos van a mencionar la palabra fentanilo 1 vez dentro de la noticia, no como enlace, nota o video sugerido, aunque eso no asegura que todas las noticias tengan al fentanilo como foco de atención o que no sea una palabra usada para atraer visitas y lecturas.
