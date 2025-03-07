@@ -91,7 +91,17 @@ Para esto se procedió 	a hacer un gráfico de líneas con la librería Matplotl
 
 Ya se pueden ver algunos detalles muy claros en los datos como lo son; durante el periodo de tiempo seleccionado el numero de noticias en inglés ocupa el primer puesto en cuanto a cantidad y se ve que, junto a la información en español, tuvieron una tendencia a crecer rápidamente a medida que avanzaba el tiempo. Por su parte, las noticias en francés, fueron un número significativamente menor con una tendencia creciendo de forma muy moderada, esto debido principalmente a que la cantidad de personas que hablan inglés y español (Colombia, México, Canadá y EE.UU) es superior de las que hablan francés(Canadá). A continuación observamos los volúmenes de publicación de forma anual para los 3 idiomas.
 
-3img
+![Volumen total anual en inglés.](volumen total anual en inglés.png)
+
+*Volumen total anual en inglés*
+
+![Volumen total anual en español.](volumen total anual en español.png)
+
+*Volumen total anual en español*
+
+![Volumen total anual en francés.](volumen total anual en francés.png)
+
+*Volumen total anual en francés*
 
 Las gráficas del volumen total anual de publicaciones en cada idioma confirman lo que se ve en los Gráficos de líneas 1 y 2. El volumen de publicaciones y tendencias van aumentando al ir pasando el tiempo, incluso se puede ver en el Gráfico de líneas 5 con mayor claridad lo que se observa en el Gráfico de Líneas 2, la tendencia de crecimiento moderado de las publicaciones anuales en francés.
 
@@ -99,7 +109,17 @@ Como ya se dijo en este documento, luego de la extracción de los datos se pudo 
 
 En primer lugar se agrupan aquellos enlaces que repiten el mismo titular, aunque en el gráfico se puede ver que el volumen y tendencia de publicación tienen similitudes, los picos máximos y el número de noticias en inglés y español que se publicaron ese día descienden considerablemente, no pasa lo mismo con los datos en francés. 
 
-4img
+![DB fentanilo 2016 - 2024 español, títulos agrupados.](DBfentanilo 2016 - 2024 español, títulos agrupados.png)
+
+*DB fentanilo 2016 - 2024 español, títulos agrupados*
+
+![DB fentanilo 2016 - 2024 inglés, títulos agrupados.](DBfentanilo 2016 - 2024 inglés, títulos agrupados.png)
+
+*DB fentanilo 2016 - 2024 inglés, títulos agrupados*
+
+![DB fentanilo 2016 - 2024 francés, títulos agrupados.](DBfentanilo 2016 - 2024 francés, títulos agrupados.png)
+
+*DB fentanilo 2016 - 2024 francés, títulos agrupados*
 
 Tanto el volumen y tendencia de publicación de noticias puede obedecer a la distribución y culturas mediáticas en cada país, la forma de abarcar el tema y el objetivo que se tiene al hacerlo, por ejemplo en las notas recolectadas de Colombia y México, algunas noticias no tienen que ver directamente con el fentanilo pero al referirse al crimen organizado, política, accidentes o farándula se incluye si o si la palabra en la noticia, así no tenga nada que ver con el contexto de la nota. Un ejemplo claro es cuando alguien reconocido muere por sobredosis y aún sin que sea verdad, los medios dicen que presuntamente fue por fentanilo. Es una estrategia de posicionamiento web que va de la mano con lo que quiere vender cada medio.
 
