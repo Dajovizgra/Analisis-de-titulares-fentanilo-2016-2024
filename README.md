@@ -57,15 +57,15 @@ Pensando a otros análisis que se hagan a futuro en este punto se hace una prime
 
 De aquí salieron 6 bases de datos; 3 con información extraída de Google News del año 2016 al año 2019 en inglés, francés y español; 3 con información extraída de Media Cloud del año 2020 al año 2024 en inglés, francés y español. Los resultados obtenidos desde ambas fuentes diferían en cuanto a los formatos de las fechas de publicación de las noticias, antes proceder a unir la información de Media Cloud y Google News, desde 2016 – 2019, agrupadas por idiomas, se solucionó este paso estableciendo un formato de fecha igual para toda la información (AAAA-MM-DD).
 
-![Beautiful Soup](dbfentanilo2016-2024esp.png)
+![Db fentanilo 2016 - 2024 español](dbfentanilo2016-2024esp.png)
 
 *Db fentanilo 2016 - 2024 español*
 
-![Beautiful Soup](dbfentanilo2016-2024ing.png)
+![Db fentanilo 2016 - 2024 inglés](dbfentanilo2016-2024ing.png)
 
 *Db fentanilo 2016 - 2024 inglés*
 
-![Beautiful Soup](dbfentanilo2016-2024fr.png)
+![Db fentanilo 2016 - 2024 francés](dbfentanilo2016-2024fr.png)
 
 *Db fentanilo 2016 - 2024 francés*
 
@@ -80,3 +80,11 @@ Una mejora a futuro de este análisis va a tener que detallar porque varias noti
 Luego de tener toda la información recolectada en 3 bases de datos, cada una en un idioma (inglés, español y francés) se procedió a realizar el análisis exploratorio correspondiente.
 
 Para esto se procedió 	a hacer un gráfico de líneas con la librería Matplotlib de python, en donde se pudiera observar el volumen de publicación de noticias de forma diaria desde el año 2016 hasta el año 2024 y otro en donde se grafica la tendencia de esta información.
+
+![Volumen de publicación diario](volumenpublicaciondiario.png)
+
+*Volumen de publicación diario*
+
+![Tendencia de publicación diario](tendenciapublicaciondiaria.png)
+
+*Volumen de publicación diario*
