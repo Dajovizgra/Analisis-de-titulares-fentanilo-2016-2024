@@ -160,3 +160,14 @@ Con el segundo filtro se asegura que los datos van a mencionar la palabra fentan
 
 Otra anotación importante y que no es tan clara en estos gráficos es la estacionalidad (repetición cada cierto período de tiempo idéntico de ciertos fenómenos) que presentan los datos. Cada cierto periodo de tiempo se presentan ciertos picos y valles en los gráficos. Esto puede obedecer a diferentes razones entre los cuales se intuye el interés y las agendas mediáticas relacionadas al fentanilo, por ejemplo avances en las investigaciones de muertes de artistas por sobredosis o incautaciones de la sustancia.
 
+![Estacionalidad de publicación de noticias inglés.](estacionalidadingsegundofiltro.png)
+
+*Estacionalidad de publicación de noticias inglés*
+
+![Estacionalidad de publicación de noticias español.](estacionalidadespsegundofiltro.png)
+
+*Estacionalidad de publicación de noticias español*
+
+![Estacionalidad de publicación de noticias francés.](estacionalidadfrsegundofiltro.png)
+
+*Estacionalidad de publicación de noticias francés*
