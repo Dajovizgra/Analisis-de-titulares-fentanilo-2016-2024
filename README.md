@@ -85,7 +85,11 @@ Para esto se procedió 	a hacer un gráfico de líneas con la librería Matplotl
 
 *Volumen de publicación diario*
 
-![Tendencia de publicación diario](Gráficos/tendenciadepublicaciondiaria.png)
+![Volumen de publicación diario](Gráficos/volumenpublicaciondiario.png)
+
+*Volumen de publicación diario*
+
+![Tendencia de publicación diario](Gráficos/line_animation.mp4)
 
 *Volumen de publicación diario*
 
