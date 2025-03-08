@@ -89,9 +89,9 @@ Para esto se procedió 	a hacer un gráfico de líneas con la librería Matplotl
 
 *Animación*
 
-![Tendencia de publicación diario](Gráficos/tendenciadepubliaciondiaria)
+![Tendencia de publicación diario](Gráficos/tendenciadepubliaciondiaria.png)
 
-*tendencia de publicación diario*
+*Tendencia de publicación diario*
 
 Ya se pueden ver algunos detalles muy claros en los datos como lo son; durante el periodo de tiempo seleccionado el numero de noticias en inglés ocupa el primer puesto en cuanto a cantidad y se ve que, junto a la información en español, tuvieron una tendencia a crecer rápidamente a medida que avanzaba el tiempo. Por su parte, las noticias en francés, fueron un número significativamente menor con una tendencia creciendo de forma muy moderada, esto debido principalmente a que la cantidad de personas que hablan inglés y español (Colombia, México, Canadá y EE.UU) es superior de las que hablan francés(Canadá). A continuación observamos los volúmenes de publicación de forma anual para los 3 idiomas.
 
