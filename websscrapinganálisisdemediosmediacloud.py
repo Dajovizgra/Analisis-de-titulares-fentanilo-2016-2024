@@ -66,7 +66,7 @@ all_stories = []
 more_stories = True
 pagination_token = None
 while more_stories:
-    page, pagination_token = search_api.story_list(my_query, dt.date(2024,12,2), dt.date(2024,12,5), #Explicar los errores presentados cuando los resultados eran mayores de 2000, github.
+    page, pagination_token = search_api.story_list(my_query, dt.date(2024,12,2), dt.date(2024,12,5), ## Durante el proceso se detectó que cuando el número de resultados es superior a 2000 se presentan errores al ejecutar esta parte del código. Jugando con los espcios de tiempo se trabajó este punto.
                                                    id_colections,
                                                    pagination_token=pagination_token)
     all_stories += page
