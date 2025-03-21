@@ -204,3 +204,6 @@ Debido a la estrategia de reducción de daños a nivel nacional que tiene Canad�
 - El contexto de la mayoría de las palabras que se agrupan en la nube de palabras, luego del procesamiento de los titulares de las noticias, es de punitividad, seguridad, crimen, negocio y muerte.
   
 - La política nacional de reducción de daños que tiene Canadá puede estar influyendo,de manera muy tímida aún, en la agenda mediática de ese país. Solo en la nube de palabras en francés se pueden ver levemente representadas las palabras naloxona y medicina, además solo la tendencia de noticias en francés tiene una tendencia neutra desde el 2016 – 2024.
+
+*Artículo publicado:*
+*https://www.echelecabeza.com/que-dijeron-los-medios-en-america-del-norte-y-colombia-sobre-el-fentanilo-entre-2016-y-2024/*
