@@ -214,8 +214,7 @@ Debido a la estrategia de reducción de daños a nivel nacional que tiene Canad�
     • Fletcher Richard (2023). Actitudes hacia los algoritmos y su impacto en las noticias. https://reutersinstitute.politics.ox.ac.uk/es/digital-news-report/2023/actitudes-algoritmos-impacto-noticias.
     • Riesgos de la desinformación en Colombia (2033). https://www.uniandes.edu.co/es/noticias/periodismo-y-comunicaciones/riesgos-de-la-desinformacion-en-colombia.
     • Sierra Caballero, Francisco, & Sola-Morales, Salomé. (2020). Golpes mediáticos y desinformación en la era digital. La guerra irregular en América Latina. Comunicación y sociedad, 17, e7604. Epub 27 de enero de 2021.https://doi.org/10.32870/cys.v2020.7604.
-    • López-Borrull, Alexandre (2023). “En busca de la verdad perdida: redes sociales y desinformación”.
-Anuario ThinkEPI, v. 17, e17a44. https://doi.org/10.3145/thinkepi.2023.e17a44.
+    • López-Borrull, Alexandre (2023). “En busca de la verdad perdida: redes sociales y desinformación”. Anuario ThinkEPI, v. 17, e17a44. https://doi.org/10.3145/thinkepi.2023.e17a44.
     • Cabral Brenda (2023). Manipulación de la información en medios de comunicación digitales e impresos. Instituto de Investigaciones Bibliotecológicas y de la Información Universidad Nacional Autónoma de México. https://thinkepi.scimagoepi.com/index.php/ThinkEPI/article/view/91621.
     • Calviño Vanessa (2023). La Desinformación en las Redes Sociales y el Periodismo. Artículo académico del doctorado en Ciencias de la Comunicación Social de la asignatura Industrias Culturales, impartida por el  Dr. Bladimir Cedeño Vega / Facultad de Comunicación Social de la Universidad de Panamá. https://launiversidad.up.ac.pa/node/3196.
     • Consultorio ético (2019). ¿Se está perdiendo la ética periodística por la inmediatez de la noticia?https://fundaciongabo.org/es/consultorio-etico/consulta/2140.
