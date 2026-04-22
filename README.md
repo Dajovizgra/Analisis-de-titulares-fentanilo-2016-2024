@@ -3,11 +3,11 @@ Tendencias y patrones en la cobertura mediática del fentanilo en América del N
 
 ##        Contexto del análisis
 
-Existe un boom de información relacionada al fentanilo desde el 2016 que va de la mano con muchas cosas tales como; la declaración del gobierno provincial de Columbia Británica – Canadá de una crisis de fentanilo en abril de ese año, visibilización de los consumidores mientras se encuentran bajo su efecto, sobredosis, aumento de la oferta y demanda en el mercado negro, combinaciones peligrosas con otras sustancias, noticias criminales entorno a la sustancia, supuestas aperturas de nuevos mercados, entre otras tantas que en ocasiones son verdad, pero que en otras ocasiones son solo noticias que busca avivar las pasiones de las personas para traer clicks y visitas.
+Desde el 2016 existe un boom noticioso relacionado al fentanilo que tomó fuerza debido a algunas situaciones como; las emergencias generadas por consumo, sobredosis y muertes en Canadá y EE.UU, cada una con características propias de su contexto y cultura, visibilización de los consumidores mientras se encuentran bajo el efecto de la sustancia, aumento de su presencia en el mercado negro, combinaciones peligrosas con otras sustancias, noticias criminales entorno a la sustancia y supuestas aperturas de nuevos mercados.
 
-El uso de fentanilo es un problema que ha afectado de forma real y en gran cantidad a muchas personas en México, EE.UU y Canadá. Fuera de estos territorios, específicamente desde Colombia, se ha venido gestando un ambiente mediático opaco, en donde se refuerza la narrativa prohibicionista y donde se pronostica que el fentanilo va a destruir a los colombianos sin pruebas claras o análisis a profundidad. Es una herramienta discursiva que emplea toda la agenda mediática como gran aliada para seguir fortaleciendo los enfoques punitivos sobre las sustancias ilegales y para aumentar la represión en los eslabones más débiles de esta cadena de distribución, esto disfrazado de “preocupación por la comunidad” y la necesidad de “más seguridad”.
+Aunque el consumo de fentanilo es un problema que ha afectado de forma real y en gran manera a muchas personas en México, EE.UU y Canadá. Fuera de estos territorios, específicamente desde Colombia, se ha venido gestando un ambiente de desinformación, avivando la narrativa en contra las drogas, en donde se pronostica que el fentanilo va a destruir a los colombianos. Es una herramienta discursiva que emplea la desinformación como gran aliada para seguir promoviendo los enfoques punitivos sobre las sustancias ilegales, poniéndolas a todas en una misma bolsa sin distinguir el amplio espectro que existe. Se apuesta por el miedo y la represión bajo una máscara de “preocupación por la comunidad” y de necesidad de “más seguridad”, incluso al punto de ir en contra de la evidencia y los datos de lxs profesionales y organizaciones que saben del tema y lo trabajan.
 
-Teniendo todo esto en cuenta se plantea la razón de la necesidad de realizar este análisis descriptivo y exploratorio desde Colombia. Pese a que no somos un país que se haya visto mayormente afectado por la problemática relacionada al consumo de fentanilo, se usa al aparato mediático como forma de avivar este mensaje de preocupación por la sustancia y las tragedias que nos puede traer, ignorando problemas estructurales mayores que ya tenemos como la polarización, estigmatización, exclusión e incluso odio en contra de los eslabones más débiles de la cadena distribución de las sustancias como consumidores y pequeñas y pequeños expendedores, estos últimos, en su mayoría comunidad pobre buscando otras alternativas económicas para sus vidas.
+Teniendo todo esto en cuenta se plantea la razón de la necesidad de realizar este análisis descriptivo y exploratorio desde Colombia. Pese a que no es un país que se haya visto realmente afectado por la problemática relacionada al consumo no controlado de fentanilo, se usa al aparato mediático y a la desinformación como formas de avivar el mensaje de miedo y rechazo a las drogas, especialmente hacia los usuarios y eslabones más débiles de la cadena de distribución. Se busca controlar a la gente por medio del pánico generado y a la vez se ocultan problemas más urgentes en los territorios, en todo el planeta.
 
 El contexto anterior ayudará a entender la razón por la cuál para este análisis se accedieron a medios de comunicación en México, Canadá, EE.UU y Colombia tanto en inglés, francés y español.
 
@@ -197,16 +197,14 @@ Debido a la estrategia de reducción de daños a nivel nacional que tiene Canad�
 *Nube de palabras en francés*
 
 ##        Conclusiones
+
 - Durante el 2020 – 2024 el volumen de publicaciones en inglés y español tiene un mayor crecimiento que entre el 2016 – 2019 en donde se ve una tendencia más moderada. Lo anterior coincide con el récord histórico de muertes por sobredosis en EE.UU en 2020, una cantidad de muertes que no se veía desde finales de los años noventa y lo cuál pudo haber influido en el volumen de publicaciones de noticias relacionadas al fentanilo.
   
 - La publicación de noticias en francés mantiene una tendencia neutra a lo largo del 2016 – 2024. En ningún momento tiene cambios significativos.
   
-- El contexto de la mayoría de las palabras que se agrupan en la nube de palabras, luego del procesamiento de los titulares de las noticias, es de punitividad, seguridad, crimen, negocio y muerte.
+- La mayoría de las palabras que se agrupan en la nube de palabras, luego del procesamiento de los titulares de las noticias se relacionan a la punitividad, la seguridad, el crimen, el negocio y la muerte.
   
-- La política nacional de reducción de daños que tiene Canadá puede estar influyendo,de manera muy tímida aún, en la agenda mediática de ese país. Solo en la nube de palabras en francés se pueden ver levemente representadas las palabras naloxona y medicina, además solo la tendencia de noticias en francés tiene una tendencia neutra desde el 2016 – 2024.
-
-*Artículo publicado:*
-*https://www.echelecabeza.com/que-dijeron-los-medios-en-america-del-norte-y-colombia-sobre-el-fentanilo-entre-2016-y-2024/*
+- La política nacional de reducción de daños que tiene Canadá puede estar influyendo,de manera muy tímida aún, en la agenda mediática de ese país. Solo en la nube de palabras en francés se pueden ver levemente representadas las palabras naloxona y medicina.
 
 ##        Bibliografía
 
